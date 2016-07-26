@@ -14,6 +14,7 @@ When the peer is run, it will ask for a directory. Please enter the full path to
 ############# Commands (example) ############# 
 
 `python server.py`
+
 `python peer.py 152.46.20.136`
 
 Input: `/home/pkulkar5/projectdemo/rfcdata`
